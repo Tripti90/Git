@@ -9,3 +9,8 @@ https://github.com/
  
 
  
+git branch
+git checkout master
+git checkout develop
+git commit -m "New Branch"
+git push --set-upstream origin develop 
